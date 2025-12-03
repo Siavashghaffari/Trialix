@@ -1,0 +1,15 @@
+======================================================================
+RECOMMENDED INCLUSION CRITERIA
+======================================================================
+
+Suggested Enrollment Criteria:
+  ✓ Pdl1 Score ≥ 27%
+
+Impact Estimate:
+----------------------------------------------------------------------
+  Unenriched Response Rate: 28.7%
+  Enriched Response Rate: 42.5% (+13.8pp)
+  Eligible Population: 48.7% of screened patients
+  Relative Enrichment: 1.48x response rate improvement
+  Number Needed to Screen: 2.1 patients per randomized
+======================================================================
