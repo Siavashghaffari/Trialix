@@ -388,7 +388,7 @@ results/
 
 ```bash
 # Clone repository
-git clone https://github.com/Siavashghaffari/Trialix/Trialix.git
+git clone https://github.com/Siavashghaffari/Trialix.git
 cd Trialix
 
 # Create virtual environment
